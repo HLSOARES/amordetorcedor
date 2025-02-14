@@ -1,0 +1,58 @@
+*{
+   
+    color: black;
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+   
+}
+
+#Amor{
+    color: red;
+    font-size: 60px;
+    text-align: center;
+    background-color: black;
+}
+#header{
+   
+    text-align: center;
+}
+#texto{
+    
+    color: black;
+    font-size: 40px;
+    text-align: center;
+}
+#futebol{
+    color: rgb(34, 17, 17);
+    font-size: 50px;
+    text-align: center;
+    font-family: "Montserrat", serif;
+}
+#maiores{
+    color: rgb(34, 17, 17);
+    font-size: 40px;
+    font-family: "Montserrat", serif;
+    text-align: center
+}
+#racking{
+    color: rgb(34, 17, 17);
+    font-size: 40px;
+    font-family: "Montserrat", serif;
+    text-align: left
+}
+
+#imagem{
+    font-size: 200px;
+    text-align: center;
+}
+#foto{
+    text-align: center;
+}
+#button{
+    color: black;
+    font-size: 40px;
+    font-family: "Montserrat", serif;
+    text-align: center;
+
+     
+}
